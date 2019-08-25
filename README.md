@@ -1,1 +1,2 @@
-# sistemas_digitais_avan-ados
+# sistemas_digitais_avancados
+Trabalho de Somadores Rápidos
